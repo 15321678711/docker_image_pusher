@@ -1,7 +1,4 @@
-alpine
-nginx
-node
-centos7
-ubuntu
-emqx/emqx:5.6.1
-
+alpine:latest
+nginx:latest
+node:latest
+centos7:latest
