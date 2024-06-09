@@ -9,5 +9,5 @@ jonnyan404/mrdoc-alpine:0.8.1
 emqx/emqx:5.6.1
 jellyfin/jellyfin
 fs185085781/webos
-mcr.microsoft.com/mssql/sqlserver:2019-latest
+mcr.microsoft.com/mssql/server:2019-latest
 registry.cn-hangzhou.aliyuncs.com/helowin/oracle_11g:latest
