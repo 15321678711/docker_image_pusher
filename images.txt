@@ -5,8 +5,4 @@ centos7
 ubuntu
 jonnyan404/mrdoc-alpine:0.8.1
 emqx/emqx:5.6.1
-jellyfin/jellyfin
-registry.cn-hangzhou.aliyuncs.com/helowin/oracle_11g
-mcr.microsoft.com/mssql/server
-fs185085781/webos
-6053537/portainer-ce
+
