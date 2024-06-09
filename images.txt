@@ -3,6 +3,5 @@ nginx
 node
 centos7
 ubuntu
-jonnyan404/mrdoc-alpine:0.8.1
 emqx/emqx:5.6.1
 
