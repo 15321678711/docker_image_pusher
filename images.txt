@@ -5,3 +5,4 @@ nginx:latest
 centos:centos7
 6053537/portainer-ce
 teamide/teamide-server:latest
+jonnyan404/mrdoc-alpine:0.8.1
