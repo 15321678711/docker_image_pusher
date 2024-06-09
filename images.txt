@@ -3,3 +3,4 @@ node:latest
 ubuntu:latest
 nginx:latest
 centos:centos7
+6053537/portainer-ce
