@@ -1,4 +1,1 @@
 alpine:latest
-nginx:latest
-node:latest
-centos7:latest
