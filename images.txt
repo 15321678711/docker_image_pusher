@@ -2,3 +2,4 @@ alpine:latest
 node:latest
 ubuntu:latest
 nginx:latest
+centos:centos7
