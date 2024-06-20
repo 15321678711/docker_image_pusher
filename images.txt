@@ -12,3 +12,4 @@ fs185085781/webos
 mcr.microsoft.com/mssql/server:2019-latest
 registry.cn-hangzhou.aliyuncs.com/helowin/oracle_11g:latest
 mysql:latest
+nodered:latest
