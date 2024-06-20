@@ -11,4 +11,4 @@ jellyfin/jellyfin
 fs185085781/webos
 mcr.microsoft.com/mssql/server:2019-latest
 mysql:latest
-nodered:latest
+nodered/node-red
