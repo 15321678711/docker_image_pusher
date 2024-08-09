@@ -7,8 +7,11 @@ centos:centos7
 teamide/teamide-server:latest
 jonnyan404/mrdoc-alpine:0.8.1
 emqx/emqx:5.6.1
+emqx/emqx:5.0.21
+emqx/emqx:latest
 jellyfin/jellyfin
 fs185085781/webos
 mcr.microsoft.com/mssql/server:2019-latest
 mysql:latest
 nodered/node-red
+zmister/mrdoc:v8
