@@ -15,3 +15,6 @@ mcr.microsoft.com/mssql/server:2019-latest
 mysql:latest
 nodered/node-red
 zmister/mrdoc:v8
+ollama/ollama:latest
+ollama/ollama
+ghcr.nju.edu.cn/open-webui/open-webui:main
