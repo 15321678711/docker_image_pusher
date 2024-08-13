@@ -18,3 +18,5 @@ zmister/mrdoc:v8
 ollama/ollama:latest
 ollama/ollama
 ghcr.nju.edu.cn/open-webui/open-webui:main
+taskcafe/taskcafe:latest
+postgres:12.3-alpine
