@@ -1,3 +1,4 @@
+owncloud:latest
 alpine:latest
 node:latest
 ubuntu:latest
