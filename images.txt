@@ -1,3 +1,5 @@
+frooodle/s-pdf:latest
+suisuijiang/fiora
 owncloud:latest
 alpine:latest
 node:latest
