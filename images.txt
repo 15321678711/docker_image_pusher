@@ -1,5 +1,7 @@
 frooodle/s-pdf:latest
 suisuijiang/fiora
+redis
+mongo
 owncloud:latest
 alpine:latest
 node:latest
