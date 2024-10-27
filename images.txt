@@ -1,3 +1,6 @@
+hn4930/go-view:latest
+hn4930/go-view-serve:latest
+mysql/mysql-server:5.7
 gcpaas/dataroom
 linzeyi/hivision_idphotos
 zhaojun1998/zfile
