@@ -1,3 +1,4 @@
+datavisualization/aj-report:2.1
 hn4930/go-view:latest
 hn4930/go-view-serve:latest
 mysql/mysql-server:5.7
