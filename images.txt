@@ -1,1 +1,1 @@
-leon9512/datalink:latest
+leon9512/datalink:v1.0.0
