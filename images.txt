@@ -1,1 +1,1 @@
-emqx/emqx:5.8.5
+smartboot/smart-mqtt:latest
