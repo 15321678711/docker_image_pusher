@@ -1,1 +1,1 @@
-smartboot/smart-mqtt:latest
+itushan/mtab:latest
