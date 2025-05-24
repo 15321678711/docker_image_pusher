@@ -1,1 +1,1 @@
-netbox:latest-plugins
+netboxcommunity/netbox:latest
