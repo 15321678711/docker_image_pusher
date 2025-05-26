@@ -1,1 +1,1 @@
-netboxcommunity/netbox:latest
+docker.io/netboxcommunity/netbox:latest
