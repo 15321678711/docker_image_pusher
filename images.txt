@@ -1,2 +1,1 @@
-postgres:17.5
-dataease/sqlbot:v1.0.0
+halohub/halo:2.21
