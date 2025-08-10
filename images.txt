@@ -1,1 +1,2 @@
-docker.io/netboxcommunity/netbox:latest
+postgres:17.5
+dataease/sqlbot:v1.0.0
