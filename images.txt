@@ -1,1 +1,1 @@
-log1997/log-lottery:latest
+ruvnet/wifi-densepose:latest
