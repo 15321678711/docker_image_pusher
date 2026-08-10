@@ -1,1 +1,2 @@
-ghcr.io/centralmind/gateway:v0.2.18
+sath89/oracle-xe-11g
+gvenzl/oracle-xe:21-slim
