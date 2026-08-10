@@ -1,2 +1,1 @@
-sath89/oracle-xe-11g
 gvenzl/oracle-xe:21-slim
