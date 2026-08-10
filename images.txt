@@ -1,2 +1,1 @@
-maven:3.8.4-openjdk-8
-openjdk:8-jre-slim
+faucetdb/faucet:0.1.7
