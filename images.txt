@@ -1,1 +1,1 @@
-faucetdb/faucet:0.1.7
+ghcr.io/centralmind/gateway:v0.2.18
